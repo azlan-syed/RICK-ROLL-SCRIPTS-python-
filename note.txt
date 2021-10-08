@@ -1,1 +1,3 @@
 See the offline rickroll script before running
+and satisfy a requirement for playsound module using
+pip install playsound
